@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there if your looking for my site go to https://superdeath.github.io/ enjoy :) 
 
 <!--
 **SuperDeath/SuperDeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
